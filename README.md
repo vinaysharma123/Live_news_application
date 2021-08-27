@@ -1,1 +1,1 @@
-# Live_news_application
+# News_app
